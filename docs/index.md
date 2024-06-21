@@ -15,17 +15,23 @@
 ## 迁移服务器
 
 1. 选择已有服务器实例
+
 ![ashes-migrate1.png](ashes-migrate1.png)
 2. 设置游戏属性
+
 ![ashes-migrate2.png](ashes-migrate2.png)
 3. 确认参数，点击`立即创建`开始迁移
+
 ![ashes-migrate3.png](ashes-migrate3.png)
 4. 看到提示`提交成功`表示迁移服务已提交
+
 ![ashes-migrate4.png](ashes-migrate4.png)
 5. 等待部署完成
+
 ![ashes-migrate5.png](ashes-migrate5.png)
 6. 部署完成后，服务器大约会有5分钟左右更新的过程，请耐心等待
 7. 进入实例概览页签，可以看到服务器的IP地址以及端口
+
 ![ashes-migrate6.png](ashes-migrate6.png)
 
 
@@ -89,6 +95,7 @@
 **不要关闭命令提示符窗口，否则游戏服务器会被关闭，重要的事情说三遍!**
 
 **不要关闭命令提示符窗口，否则游戏服务器会被关闭，重要的事情说三遍!**
+
 ![ashes-replace-save7.png](ashes-replace-save7.png)
 
 10. 到此，整个游戏存档就替换完毕啦~
